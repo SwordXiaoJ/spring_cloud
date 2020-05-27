@@ -1,5 +1,9 @@
 # spring_cloud
-#作业要求2 是模块netflix_eureka_clinet与netflix_eureka_server。其中netflix_eureka_server是通用的注册中心，后续也会用
-#作业要求3 是模块netflix_zuul。
-#作业要求4 是模块config-client与config-server，它们都是netflix_eureka_server为注册中心
-#作业要求5 是模块producer，consumer，netflix_zuul与netflix_eureka_server
+
+作业要求2 是模块netflix_eureka_clinet与netflix_eureka_server。其中netflix_eureka_server是通用的注册中心，后续也会用
+
+作业要求3 是模块netflix_zuul。
+
+作业要求4 是模块config-client与config-server，它们都是netflix_eureka_server为注册中心
+
+作业要求5 是模块producer，consumer，netflix_zuul与netflix_eureka_server
